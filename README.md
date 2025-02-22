@@ -1,5 +1,5 @@
 
-# Human Identification and Verification using Gait Analysis and Facial Recognition
+# Two Factor Authentication Using Gait Analysis and Facial Recognition
 
 ## Executive Summary
 The COVID-19 pandemic has accelerated the need for contactless authentication technologies. Traditional methods like fingerprint scanning and facial recognition face challenges due to the need for physical contact and high setup costs. This project proposes a novel access control system that combines gait analysis and facial recognition, providing a secure, cost-effective, and contactless solution. By leveraging Kinect's depth-capturing capabilities and a regular camera for facial recognition, our system achieves a combined accuracy of 89%, making it a robust alternative to more expensive, complex systems.
